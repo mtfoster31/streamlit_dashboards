@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="AI/Data Demo App", layout="wide")
+st.set_page_config(page_title="Matt Foster AI Demo App - Generated with ChatGPT 4.0", layout="wide")
 
 # -------------------------
 # 1. TITLE & DESCRIPTION
